@@ -1,0 +1,8 @@
+Recursos
+https://www.google.com/chrome/
+https://nodejs.org/es/
+https://www.typescriptlang.org/#download-links
+https://www.postman.com/downloads/
+https://code.visualstudio.com/
+https://cli.angular.io/
+https://www.npmjs.com/package/nodemon
